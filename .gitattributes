@@ -61,3 +61,27 @@
 #*.PDF   diff=astextplain
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
+
+
+
+
+        
+      InsertApply# Step 1: Set default behavior to automatically normalize line endings.
+Set default behavior for command prompt diff.
+
+- Add *.cs to diff=csharpplaintext
+        
+          
+          
+        
+        
+      InsertApply# Step 2: Set default behavior for merge driver for project and solution files.
+Set the merge driver for project and solution files
+
+- Set *.* csproj merge=binary, sln merge=binaryplaintext
+        
+          
+          
+        
+        
+     

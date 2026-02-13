@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = ApiAndFrontManagmentTool.ServiceDefaults
+build_property.ProjectDir = /home/saman/Documents/repo/ApiAndFrontManagmentTool/ApiAndFrontManagmentTool.ServiceDefaults/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
