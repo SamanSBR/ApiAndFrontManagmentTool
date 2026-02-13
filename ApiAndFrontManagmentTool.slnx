@@ -1,7 +1,0 @@
-<Solution>
-  <Project Path="ApiAndFrontManagmentTool.ApiService/ApiAndFrontManagmentTool.ApiService.csproj" />
-  <Project Path="ApiAndFrontManagmentTool.AppHost/ApiAndFrontManagmentTool.AppHost.csproj" />
-  <Project Path="ApiAndFrontManagmentTool.ServiceDefaults/ApiAndFrontManagmentTool.ServiceDefaults.csproj" />
-  <Project Path="ApiAndFrontManagmentTool.Tests/ApiAndFrontManagmentTool.Tests.csproj" />
-  <Project Path="ApiAndFrontManagmentTool.Web/ApiAndFrontManagmentTool.Web.csproj" />
-</Solution>
